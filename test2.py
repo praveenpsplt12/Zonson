@@ -1,3 +1,4 @@
+Hi
 Hello I am from master branch
 Hello i am updating dev branch
 echo "Master class"
